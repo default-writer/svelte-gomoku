@@ -2,3 +2,7 @@
 node_modules
 public/bundle.*
 public/components.*
+public/components.css
+public/components.css.map
+public/components.css
+public/components.css.map
