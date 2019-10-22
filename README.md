@@ -3,4 +3,4 @@
 ```bash
 npm run dev
 ```
-"# svelte-gomoku" 
+# svelte-gomoku
